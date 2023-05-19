@@ -1,0 +1,40 @@
+.kontejner{
+    widows: 100%;
+    height: 100%;
+    background-color: lightgoldenrodyellow;
+ 
+}
+
+.lab1{
+    clear: both;
+    float:left;
+    display: block;
+}
+
+.sacuvajpost{
+    width:100%;
+    height:400px;
+    
+    
+}
+
+
+.lab2{
+    display:block;
+}
+
+.slika{
+    opacity: 0.5;
+    width:100px;
+    height:100px;
+    float:left;
+}
+
+.logshow{
+    display:block;
+
+}
+.container{
+    margin:10px;
+    padding:10px;
+}
